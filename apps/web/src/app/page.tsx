@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main>
+    <main className='flex min-h-screen items-center justify-center'>
       <h1>Build Cake Apps</h1>
     </main>
   );
